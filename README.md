@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- Animated header -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding Animation">
-
 # Hola, I'm Andrés 👋
 
 **`Full Stack Developer` | `Coffee to Code Converter ☕`**
