@@ -87,12 +87,16 @@ class Andrés:
 
 ## 🚀 Open Source Projects
 
-<picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
+<picture style="margin-right: 10px;">
+  <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools">
+</picture>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrees-code&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true)](https://github.com/andrees-code/pdfs-interactivos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrees-code&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/andrees-code/tfgDaw)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrees-code&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true)](https://github.com/andrees-code/Portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrees-code&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true)](https://github.com/andrees-code/APIS-OPEN-SOURCE)
+| 📁 Project | 📝 Description | 🔗 Link |
+| :--- | :--- | :---: |
+| **[pdfs-interactivos](https://github.com/andrees-code/pdfs-interactivos)** | Presentation editor and converter (PDF/PPTX or new) to HTML to add interactivity | [View Code ↗](https://github.com/andrees-code/pdfs-interactivos) |
+| **[tfgDaw](https://github.com/andrees-code/tfgDaw)** | Interactive study zone powered by AI | [View Code ↗](https://github.com/andrees-code/tfgDaw) |
+| **[Portfolio](https://github.com/andrees-code/Portfolio)** | Source code of my personal portfolio | [View Code ↗](https://github.com/andrees-code/Portfolio) |
+| **[APIS-OPEN-SOURCE](https://github.com/andrees-code/APIS-OPEN-SOURCE)** | Collection of open-source APIs | [View Code ↗](https://github.com/andrees-code/APIS-OPEN-SOURCE) |
 
 ---
 
