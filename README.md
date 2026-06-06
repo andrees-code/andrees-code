@@ -68,12 +68,22 @@ class Andrés:
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=andrees-code&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
+---
+
+## 🚀 Open Source Projects
+
+<picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrees-code&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true)](https://github.com/andrees-code/YOUR_REPO_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrees-code&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/andrees-code/YOUR_REPO_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrees-code&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true)](https://github.com/andrees-code/YOUR_REPO_3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrees-code&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true)](https://github.com/andrees-code/YOUR_REPO_4)
 
 ---
 
@@ -98,3 +108,16 @@ I'm always open to interesting projects, collaborations or just a good chat abou
 *"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
+
+---
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
+![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
+
+---
+
+Credits: [andrees-code](https://github.com/andrees-code)
+
+Last Edited on: 06/06/2026
