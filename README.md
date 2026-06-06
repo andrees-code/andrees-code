@@ -105,7 +105,7 @@ class Andrés:
 <div align="center">
 
 I'm always open to interesting projects, collaborations or just a good chat about tech.  
-*(Also accepting memes and coffee recommendations.)*
+*(Also accepting coffee recommendations.)*
 
 <br/>
 
