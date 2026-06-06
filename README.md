@@ -27,7 +27,6 @@
 class Andrés:
     role        = "Full Stack Developer"
     location    = "España 🇪🇸"
-    languages   = ["Python", "TypeScript", "JavaScript", "Java"]
     
     def current_status(self):
         return "Building something cool (or fixing a bug I created yesterday)"
