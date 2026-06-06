@@ -89,10 +89,10 @@ class Andrés:
 
 <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrees-code&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true)](https://github.com/andrees-code/YOUR_REPO_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrees-code&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/andrees-code/YOUR_REPO_2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrees-code&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true)](https://github.com/andrees-code/YOUR_REPO_3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrees-code&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true)](https://github.com/andrees-code/YOUR_REPO_4)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrees-code&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true)](https://github.com/andrees-code/pdfs-interactivos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrees-code&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/andrees-code/tfgDaw)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrees-code&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true)](https://github.com/andrees-code/Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrees-code&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true)](https://github.com/andrees-code/APIS-OPEN-SOURCE)
 
 ---
 
