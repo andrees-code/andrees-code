@@ -1,18 +1,18 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Andrés+%F0%9F%91%8B;Full+Stack+Developer;I+turn+coffee+into+code+%E2%98%95;...+and+bugs+into+features+%F0%9F%90%9B" alt="Typing SVG" />
+<div align="center">
 
-<br/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding Animation">
 
-<!-- Subtitle -->
-<p>
-  <em>Building things for the web — from pixel-perfect frontends to the dark magic that happens in the backend.</em>
-</p>
+# Hola, I'm Andrés 👋
 
-<br/>
+**`Full Stack Developer` | `Coffee to Code Converter ☕`**
 
-<!-- Contact badges -->
+*Building things for the web — from pixel-perfect frontends to the dark magic that happens in the backend.*
+
+<br>
+
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-andresblasco.com-6366F1?style=for-the-badge&logoColor=white)](https://www.andresblasco.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés_Blasco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrés-blasco-aleixos-b06853282/)
 [![GitHub](https://img.shields.io/badge/GitHub-andrees--code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrees-code)
@@ -24,14 +24,16 @@
 ## 🧑‍💻 About me
 
 ```python
-class Andrés:
-    role        = "Full Stack Developer"
-    location    = "España 🇪🇸"
-    
-    def current_status(self):
-        return "Building something cool (or fixing a bug I created yesterday)"
-    
-    def fun_fact(self):
+class Andres(Developer):
+    def __init__(self):
+        self.role = "Full Stack Developer"
+        self.location = "Spain 🇪🇸"
+        self.fuel = "☕ Coffee"
+
+    def get_current_status(self):
+        return "Building something cool (or fixing a bug I created yesterday 🐛)"
+
+    def get_superpower(self):
         return "I can read a stack trace faster than a novel 📖"
 ```
 
